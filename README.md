@@ -1,172 +1,134 @@
+# 🚀 DSA Preparation Repository
 
-# 🚀 DSA Preparation in Java
+Welcome to my Data Structures and Algorithms preparation repository.
 
-> **A structured, pattern-based repository for mastering Data Structures & Algorithms in Java for software engineering interviews.**
-
----
-
-## 🎯 Mission
-
-This repository is my personal knowledge base for learning, practicing, revising, and mastering DSA. The goal is not just to solve problems but to understand the patterns behind them and build long-term problem-solving skills.
-
-### Objectives
-
-- Learn DSA by patterns instead of random problems.
-- Build strong Java implementations.
-- Prepare for coding interviews.
-- Maintain concise revision notes.
-- Track progress consistently.
+This repository documents my complete interview preparation journey. It contains pattern-based learning, problem solutions, interview notes, and common mistakes encountered while solving DSA problems.
 
 ---
 
-# 📚 Learning Philosophy
-
-For every topic, I will follow the same approach:
-
-1. Understand the intuition.
-2. Learn when to recognize the pattern.
-3. Write the generic algorithm.
-4. Implement it in Java.
-5. Solve Easy problems.
-6. Solve Medium problems.
-7. Solve Hard problems.
-8. Revise.
-9. Attempt a mock interview.
-
----
-
-# 🗺️ Learning Roadmap
-
-- ⏳ Time & Space Complexity
-- ⏳ Arrays
-- ⏳ Hashing
-- ⏳ Two Pointers
-- ⏳ Sliding Window
-- ⏳ Binary Search
-- ⏳ Sorting
-- ⏳ Recursion
-- ⏳ Backtracking
-- ⏳ Linked List
-- ⏳ Stack
-- ⏳ Queue
-- ⏳ Trees
-- ⏳ Binary Search Trees
-- ⏳ Heap / Priority Queue
-- ⏳ Graphs
-- ⏳ Greedy
-- ⏳ Dynamic Programming
-- ⏳ Advanced Topics
-
----
-
-# 📂 Repository Structure
+# 📚 Repository Structure
 
 ```text
-DSA-Preparation/
+DSA-Preparation
 │
-├── Assets/
-├── CheatSheets/
-├── Java-Templates/
-├── MockInterviews/
-├── Patterns/
-├── Problems/
-├── Resources/
-├── Revision/
-└── Roadmap/
+├── Patterns
+├── Problems
+├── CheatSheets
+├── Java-Templates
+├── MockInterviews
+├── Resources
+├── Revision
+├── Roadmap
+└── Templates
 ```
 
 ---
 
-# 📊 Progress Dashboard
+# 🧠 Learning Philosophy
 
-| Category | Status |
-|----------|--------|
-| Repository Setup | ✅ |
-| Time Complexity | ⏳ |
-| Arrays | ⏳ |
-| Hashing | ⏳ |
-| Sliding Window | ⏳ |
-| Binary Search | ⏳ |
-| Linked List | ⏳ |
-| Trees | ⏳ |
-| Graphs | ⏳ |
-| Dynamic Programming | ⏳ |
+Instead of memorizing problems, I focus on understanding the underlying pattern.
 
----
+Learning flow:
 
-# ✅ Pattern Checklist
-
-- [ ] Complexity Analysis
-- [ ] Arrays
-- [ ] Hashing
-- [ ] Two Pointers
-- [ ] Sliding Window
-- [ ] Binary Search
-- [ ] Sorting
-- [ ] Recursion
-- [ ] Backtracking
-- [ ] Linked List
-- [ ] Stack
-- [ ] Queue
-- [ ] Trees
-- [ ] BST
-- [ ] Heap
-- [ ] Graphs
-- [ ] Greedy
-- [ ] Dynamic Programming
+```
+Pattern
+    ↓
+Problems
+    ↓
+Mistakes
+    ↓
+Revision
+```
 
 ---
 
-# 🏆 Milestones
+# 📈 Progress Tracker
 
-- [ ] Understand all major DSA patterns.
-- [ ] Solve 200+ quality problems.
-- [ ] Complete weekly revisions.
-- [ ] Complete mock interviews.
-- [ ] Be interview-ready.
+## Arrays
 
----
+### Patterns
 
-# 📅 Study Routine
+- ✅ Time & Space Complexity
+- ✅ Linear Scan
+- ✅ Two Pointers
+- ⏳ Sliding Window
+- ⏳ Prefix Sum
+- ⏳ Binary Search
+- ⏳ Hashing
 
-- Learn one pattern at a time.
-- Focus on understanding before memorizing.
-- Practice consistently.
-- Revise every week.
-- Record mistakes and revisit them.
+### Problems
 
----
-
-# 🤝 Repository Rules
-
-- Quality over quantity.
-- Never skip intuition.
-- Always analyze time and space complexity.
-- Prefer optimal solutions after understanding brute force.
-- Keep notes concise and reusable.
-- Revise before moving to new topics.
+- ✅ Second Largest Element
+- ✅ Reverse Array
+- ✅ Palindrome
+- ✅ Move Zeroes
+- ⏳ Remove Duplicates from Sorted Array
+- ⏳ Two Sum
+- ⏳ Best Time to Buy and Sell Stock
+- ⏳ Rotate Array
+- ⏳ Merge Sorted Array
 
 ---
 
-# 📌 Current Status
+## Upcoming Topics
 
-**Current Module:** Repository Setup
-
-**Next Module:** Time & Space Complexity
-
----
-
-# 🌟 End Goal
-
-By the end of this journey, this repository will contain:
-
-- Pattern-based DSA notes
-- Java templates
-- Solved interview problems
-- Revision sheets
-- Mock interview preparation
-- A complete reference for future interview preparation
+- ⏳ Strings
+- ⏳ Linked List
+- ⏳ Stack
+- ⏳ Queue
+- ⏳ Trees
+- ⏳ Graphs
+- ⏳ Dynamic Programming
 
 ---
 
-> _"Consistency beats intensity. One well-understood pattern every day is better than ten memorized solutions."_
+# 📂 Folder Guide
+
+## 📘 Patterns
+
+Contains reusable DSA patterns with explanations, complexity, interview tips, and common mistakes.
+
+## 💻 Problems
+
+Each problem contains:
+
+- Problem.md
+- Mistakes.md
+- Java Solution
+
+## 📝 CheatSheets
+
+Quick revision notes before interviews.
+
+## 🎤 MockInterviews
+
+Interview questions and practice sessions.
+
+## 📚 Resources
+
+Books, articles, videos, and reference material.
+
+---
+
+# 🎯 Goals
+
+- Master core DSA patterns.
+- Write clean Java solutions.
+- Understand time and space complexity.
+- Prepare for software engineering interviews.
+- Build a structured knowledge base for revision.
+
+---
+
+# 🛠️ Tech Stack
+
+- Java
+- Git
+- GitHub
+- VS Code
+
+---
+
+## ⭐ Repository Status
+
+Currently learning **Arrays** using a pattern-based approach.
