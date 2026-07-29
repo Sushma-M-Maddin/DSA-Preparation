@@ -62,7 +62,7 @@ Revision
 - ✅ Reverse Array
 - ✅ Palindrome
 - ✅ Move Zeroes
-- ⏳ Remove Duplicates from Sorted Array
+- ✅ Remove Duplicates from Sorted Array
 - ⏳ Two Sum
 - ⏳ Best Time to Buy and Sell Stock
 - ⏳ Rotate Array

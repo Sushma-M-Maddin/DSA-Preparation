@@ -168,3 +168,77 @@ Before coding, ask:
 Two Pointer is one of the most important DSA patterns.
 
 Instead of checking every possible pair using nested loops, two pointers reduce the complexity to a single traversal, making many problems run in **O(n)** time with **O(1)** extra space.
+
+# Frequently Asked Questions
+
+## Q1. Why does the Reader always move?
+
+The Reader's responsibility is to inspect every element exactly once.
+
+Whether the current element is:
+- Duplicate
+- Unique
+
+its job is complete after inspection.
+
+Therefore, `right++` should happen after every iteration.
+
+---
+
+## Q2. Why doesn't the Writer always move?
+
+The Writer only stores useful data.
+
+If the current element is a duplicate, there is nothing new to write.
+
+So the Writer stays at its current position.
+
+---
+
+## Q3. Why do we return `left + 1`?
+
+The algorithm does not create a new array.
+
+Instead, it overwrites the beginning of the same array with unique elements.
+
+Example:
+
+Before:
+
+1 1 2 2 3 4 4 5
+
+After:
+
+1 2 3 4 5 4 4 5
+
+Only the first `left + 1` elements are valid.
+
+Since `left` stores the last valid index,
+
+Number of unique elements = last index + 1.
+
+---
+
+## Q4. Where is the new array?
+
+There is no new array.
+
+The original array is modified in-place.
+
+Only the beginning of the array contains the required answer.
+
+The remaining elements are ignored.
+
+---
+
+## Q5. How do I remember Reader vs Writer?
+
+### Reader
+
+- Reads every element.
+- Always moves.
+
+### Writer
+
+- Writes only useful elements.
+- Moves only when writing.
