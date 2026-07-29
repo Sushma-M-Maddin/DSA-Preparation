@@ -10,7 +10,7 @@
 | Pattern | Status | Problems |
 |----------|:------:|----------|
 | Time & Space Complexity | ✅ | Complexity Analysis |
-| Linear Scan | ✅ | Second Largest Element |
+| Linear Scan | ✅ | Second Largest Element, Best-Time-To-Buy-And-Sell-Stock |
 | Two Pointers | ✅ | Reverse Array, Palindrome, Move Zeroes, Remove Duplicates, TwoSum |
 | Sliding Window | ⏳ | Coming Soon |
 | Prefix Sum | ⏳ | Coming Soon |
