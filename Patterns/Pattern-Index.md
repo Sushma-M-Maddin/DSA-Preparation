@@ -11,7 +11,7 @@
 |----------|:------:|----------|
 | Time & Space Complexity | ✅ | Complexity Analysis |
 | Linear Scan | ✅ | Second Largest Element |
-| Two Pointers | ✅ | Reverse Array, Palindrome, Move Zeroes, Remove Duplicates |
+| Two Pointers | ✅ | Reverse Array, Palindrome, Move Zeroes, Remove Duplicates, TwoSum |
 | Sliding Window | ⏳ | Coming Soon |
 | Prefix Sum | ⏳ | Coming Soon |
 | Binary Search | ⏳ | Coming Soon |
