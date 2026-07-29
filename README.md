@@ -56,19 +56,20 @@ Revision
 - ⏳ Binary Search
 - ⏳ Hashing
 
-### Problems
+### Problems Solved
 
+#### Linear Scan
 - ✅ Second Largest Element
+- ✅ Best Time to Buy and Sell Stock
+
+#### Two Pointers
 - ✅ Reverse Array
 - ✅ Palindrome
 - ✅ Move Zeroes
 - ✅ Remove Duplicates from Sorted Array
-- ✅ Two Sum
-- ⏳ Best Time to Buy and Sell Stock
+- ✅ Two Sum II (Input Array Is Sorted)
 - ⏳ Rotate Array
 - ⏳ Merge Sorted Array
-
----
 
 ## Upcoming Topics
 
