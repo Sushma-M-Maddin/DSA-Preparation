@@ -68,8 +68,10 @@ Revision
 - ✅ Move Zeroes
 - ✅ Remove Duplicates from Sorted Array
 - ✅ Two Sum II (Input Array Is Sorted)
-- ⏳ Rotate Array
 - ⏳ Merge Sorted Array
+
+#### Reverse Technique
+- ✅ Rotate Array
 
 ## Upcoming Topics
 
