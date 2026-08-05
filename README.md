@@ -70,6 +70,7 @@ Revision
 - ✅ Two Sum II (Input Array Is Sorted)
 - ✅Merge Sorted Array
 - ✅Container With Most Water
+- ✅Trapping Rain Water
 
 #### Reverse Technique
 - ✅ Rotate Array

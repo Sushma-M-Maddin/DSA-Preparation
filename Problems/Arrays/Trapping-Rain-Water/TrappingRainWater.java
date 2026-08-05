@@ -1,0 +1,43 @@
+public class TrappingRainWater {
+
+    public static int trap(int[] height) {
+
+        if (height == null || height.length == 0) {
+            return 0;
+        }
+
+        int left = 0;
+        int right = height.length - 1;
+
+        int leftMax = height[left];
+        int rightMax = height[right];
+
+        int totalWater = 0;
+
+        while (left < right) {
+
+            leftMax = Math.max(leftMax, height[left]);
+            rightMax = Math.max(rightMax, height[right]);
+
+            if (leftMax < rightMax) {
+
+                totalWater += leftMax - height[left];
+                left++;
+
+            } else {
+
+                totalWater += rightMax - height[right];
+                right--;
+            }
+        }
+
+        return totalWater;
+    }
+
+    public static void main(String[] args) {
+
+        int[] height = {3, 0, 2, 0, 4};
+
+        System.out.println(trap(height));
+    }
+}

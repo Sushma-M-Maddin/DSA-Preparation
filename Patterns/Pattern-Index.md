@@ -11,7 +11,7 @@
 |----------|:------:|----------|
 | Time & Space Complexity | ✅ | Complexity Analysis |
 | Linear Scan | ✅ | Second Largest Element, Best-Time-To-Buy-And-Sell-Stock |
-| Two Pointers | ✅ | Reverse Array, Palindrome, Move Zeroes, Remove Duplicates, TwoSum, RotateArray,MergeSortArray,Container With Most Water |
+| Two Pointers | ✅ | Reverse Array, Palindrome, Move Zeroes, Remove Duplicates, TwoSum, RotateArray,  MergeSortArray, Container With Most Water, Trapping Rain Water |
 | Sliding Window | ⏳ | Coming Soon |
 | Prefix Sum | ⏳ | Coming Soon |
 | Binary Search | ⏳ | Coming Soon |
