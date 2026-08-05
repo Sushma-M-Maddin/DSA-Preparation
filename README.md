@@ -2,7 +2,7 @@
 
 Welcome to my Data Structures and Algorithms preparation repository.
 
-This repository documents my complete interview preparation journey. It contains pattern-based learning, problem solutions, interview notes, and common mistakes encountered while solving DSA problems.
+This repository documents my complete interview preparation journey. It contains pattern-based learning, problem solutions, interview notes, common mistakes encountered while solving DSA problems.
 
 ---
 
@@ -30,10 +30,14 @@ Instead of memorizing problems, I focus on understanding the underlying pattern.
 
 Learning flow:
 
-```
+```text
 Pattern
     ↓
-Problems
+Understand the Intuition
+    ↓
+Algorithm
+    ↓
+Code
     ↓
 Mistakes
     ↓
@@ -51,10 +55,16 @@ Revision
 - ✅ Time & Space Complexity
 - ✅ Linear Scan
 - ✅ Two Pointers
-- ⏳ Sliding Window
+- ✅ Reverse Technique
+- ⏳ Sliding Window (Next)
 - ⏳ Prefix Sum
 - ⏳ Binary Search
 - ⏳ Hashing
+- ⏳ Matrix
+- ⏳ Intervals
+- ⏳ Monotonic Stack
+
+---
 
 ### Problems Solved
 
@@ -64,26 +74,99 @@ Revision
 
 #### Two Pointers
 - ✅ Reverse Array
-- ✅ Palindrome
+- ✅ Valid Palindrome
 - ✅ Move Zeroes
 - ✅ Remove Duplicates from Sorted Array
 - ✅ Two Sum II (Input Array Is Sorted)
-- ✅Merge Sorted Array
-- ✅Container With Most Water
-- ✅Trapping Rain Water
+- ✅ Merge Sorted Array
+- ✅ Container With Most Water
+- ✅ Trapping Rain Water
 
 #### Reverse Technique
 - ✅ Rotate Array
 
-## Upcoming Topics
+---
 
-- ⏳ Strings
-- ⏳ Linked List
+## 🎯 Current Focus
+
+**Pattern:** Sliding Window
+
+### Upcoming Problems
+
+#### Fixed Sliding Window
+- ⏳ Maximum Sum Subarray of Size K
+- ⏳ Maximum Average Subarray I
+- ⏳ Contains Duplicate II
+
+#### Variable Sliding Window
+- ⏳ Longest Substring Without Repeating Characters
+- ⏳ Longest Repeating Character Replacement
+- ⏳ Minimum Size Subarray Sum
+- ⏳ Minimum Window Substring
+
+---
+
+## 🗺️ Complete DSA Roadmap
+
+### Phase 1 - Arrays
+- ✅ Linear Scan
+- ✅ Two Pointers
+- ✅ Reverse Technique
+- ⏳ Sliding Window
+- ⏳ Prefix Sum
+- ⏳ Hashing
+- ⏳ Binary Search
+- ⏳ Matrix
+- ⏳ Intervals
+- ⏳ Monotonic Stack
+
+### Phase 2 - Strings
+- ⏳ String Basics
+- ⏳ Sliding Window on Strings
+- ⏳ KMP
+- ⏳ Rabin-Karp
+
+### Phase 3 - Linked List
+- ⏳ Singly Linked List
+- ⏳ Fast & Slow Pointer
+- ⏳ Cycle Detection
+- ⏳ Reverse Linked List
+- ⏳ Merge Lists
+
+### Phase 4 - Stack & Queue
 - ⏳ Stack
 - ⏳ Queue
-- ⏳ Trees
-- ⏳ Graphs
-- ⏳ Dynamic Programming
+- ⏳ Monotonic Stack
+- ⏳ Monotonic Queue
+
+### Phase 5 - Trees
+- ⏳ Binary Tree
+- ⏳ Binary Search Tree
+- ⏳ DFS
+- ⏳ BFS
+- ⏳ Tree Traversals
+- ⏳ Lowest Common Ancestor
+
+### Phase 6 - Heap
+- ⏳ Priority Queue
+- ⏳ Top K Problems
+- ⏳ Merge K Sorted Lists
+
+### Phase 7 - Graphs
+- ⏳ BFS
+- ⏳ DFS
+- ⏳ Topological Sort
+- ⏳ Union Find
+- ⏳ Dijkstra
+- ⏳ Minimum Spanning Tree
+
+### Phase 8 - Dynamic Programming
+- ⏳ 1D DP
+- ⏳ 2D DP
+- ⏳ Knapsack
+- ⏳ LIS
+- ⏳ Grid DP
+- ⏳ Partition DP
 
 ---
 
@@ -91,37 +174,59 @@ Revision
 
 ## 📘 Patterns
 
-Contains reusable DSA patterns with explanations, complexity, interview tips, and common mistakes.
+Contains reusable DSA patterns with:
+
+- Pattern explanation
+- Thinking process
+- Algorithm
+- Time & Space Complexity
+- Interview Tips
+- Common Mistakes
+
+---
 
 ## 💻 Problems
 
 Each problem contains:
 
-- Problem.md
-- Mistakes.md
-- Java Solution
+- 📄 Problem.md
+- 📄 Mistakes.md
+- ☕ Java Solution
+
+---
 
 ## 📝 CheatSheets
 
-Quick revision notes before interviews.
+Quick interview revision notes and pattern summaries.
+
+---
 
 ## 🎤 MockInterviews
 
-Interview questions and practice sessions.
+Interview simulations, follow-up questions, and coding rounds.
+
+---
 
 ## 📚 Resources
 
-Books, articles, videos, and reference material.
+Books, articles, documentation, videos, and useful references.
+
+---
+
+## 📅 Revision
+
+Pattern-wise revision notes and interview recap.
 
 ---
 
 # 🎯 Goals
 
-- Master core DSA patterns.
-- Write clean Java solutions.
-- Understand time and space complexity.
-- Prepare for software engineering interviews.
-- Build a structured knowledge base for revision.
+- Master pattern-based problem solving.
+- Build intuition before coding.
+- Write clean and optimized Java solutions.
+- Understand Time & Space Complexity.
+- Prepare for Software Engineering interviews.
+- Maintain a structured knowledge base for quick revision.
 
 ---
 
@@ -134,6 +239,40 @@ Books, articles, videos, and reference material.
 
 ---
 
+# 📊 Current Statistics
+
+| Category | Completed |
+|----------|----------:|
+| Patterns | 4 |
+| Problems Solved | 11 |
+| Difficulty Covered | Easy ✅ Medium ✅ Hard ✅ |
+
+---
+
 ## ⭐ Repository Status
 
-Currently learning **Arrays** using a pattern-based approach.
+**Current Phase:** Arrays
+
+**Current Pattern:** Sliding Window
+
+**Next Problem:** Maximum Sum Subarray of Size K
+
+**Learning Strategy:**
+
+```text
+Understand Problem
+        ↓
+Brute Force
+        ↓
+Optimization
+        ↓
+Algorithm
+        ↓
+Code
+        ↓
+Dry Run
+        ↓
+Mistakes
+        ↓
+GitHub Documentation
+```
