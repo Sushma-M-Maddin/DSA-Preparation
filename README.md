@@ -56,7 +56,7 @@ Revision
 - ✅ Linear Scan
 - ✅ Two Pointers
 - ✅ Reverse Technique
-- ⏳ Sliding Window (Next)
+- ⏳ Sliding Window (InProgress)
 - ⏳ Prefix Sum
 - ⏳ Binary Search
 - ⏳ Hashing
@@ -94,8 +94,8 @@ Revision
 ### Upcoming Problems
 
 #### Fixed Sliding Window
-- ⏳ Maximum Sum Subarray of Size K
-- ⏳ Maximum Average Subarray I
+- ✅ Maximum Sum Subarray of Size K
+- ✅ Maximum Average Subarray I
 - ⏳ Contains Duplicate II
 
 #### Variable Sliding Window
