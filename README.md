@@ -99,7 +99,7 @@ Revision
 - ✅ Contains Duplicate II
 
 #### Variable Sliding Window
-- ⏳ Longest Substring Without Repeating Characters
+- ✅ Longest Substring Without Repeating Characters
 - ⏳ Longest Repeating Character Replacement
 - ⏳ Minimum Size Subarray Sum
 - ⏳ Minimum Window Substring
@@ -244,7 +244,7 @@ Pattern-wise revision notes and interview recap.
 | Category | Completed |
 |----------|----------:|
 | Patterns | 4 |
-| Problems Solved | 11 |
+| Problems Solved | 14 |
 | Difficulty Covered | Easy ✅ Medium ✅ Hard ✅ |
 
 ---
@@ -254,8 +254,6 @@ Pattern-wise revision notes and interview recap.
 **Current Phase:** Arrays
 
 **Current Pattern:** Sliding Window
-
-**Next Problem:** Maximum Sum Subarray of Size K
 
 **Learning Strategy:**
 

@@ -12,7 +12,7 @@
 | Time & Space Complexity | ✅ | Complexity Analysis |
 | Linear Scan | ✅ | Second Largest Element, Best-Time-To-Buy-And-Sell-Stock |
 | Two Pointers | ✅ | Reverse Array, Palindrome, Move Zeroes, Remove Duplicates, TwoSum, RotateArray,  MergeSortArray, Container With Most Water, Trapping Rain Water |
-| Sliding Window | ✅ | Maximum Sum Subarray of Size K, Maximum Average Subarray I, Contains Duplicate II |
+| Sliding Window | ✅ | Maximum Sum Subarray of Size K, Maximum Average Subarray I, Contains Duplicate II, LongestSubstring |
 | Prefix Sum | ⏳ | Coming Soon |
 | Binary Search | ⏳ | Coming Soon |
 | Hashing | ⏳ | Coming Soon |
