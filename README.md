@@ -96,7 +96,7 @@ Revision
 #### Fixed Sliding Window
 - ✅ Maximum Sum Subarray of Size K
 - ✅ Maximum Average Subarray I
-- ⏳ Contains Duplicate II
+- ✅ Contains Duplicate II
 
 #### Variable Sliding Window
 - ⏳ Longest Substring Without Repeating Characters
